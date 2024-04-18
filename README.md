@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;+I'm+Harsh!;" />
 </h1>
 
-
-
----
 ### :man_technologist: About Me : I am a Data Science and Machine Learning Engineer.
 - :telescope: I’m studying Computer Science and explore in cybersecurity in my free time.
 - :seedling: I’m currently learning assembly and reverse engineering
