@@ -1,8 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM5ZzVydHNoNTg5MWp4YW93ajc4OGlnbTBkOTN0MjlpajFmd2pjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI2dTZ5OG5tNG00czEyeTVvZmY4MnRzZzR3c3EyM3FtMGZjcXdvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
+</div>
+<div align="center">
+  
+  <h1>
+  Hi there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-### Hi there 👋
+---
+### :man_technologist: About Me : I am a Data Science and Machine Learning Engineer.
+- :telescope: I’m studying Computer Science and explore in cybersecurity in my free time.
+- :seedling: I’m currently learning assembly and reverse engineering
+- :zap: Trust me, I am a developer! 
 
 <!--
 **Hantak07/Hantak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
