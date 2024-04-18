@@ -10,8 +10,20 @@
 - :zap: Trust me, I am a developer!
 ---
 ### :hammer_and_wrench: Languages and Tools :
+<br/>
 <div>
     <img src="https://skillicons.dev/icons?i=python,c,rust,bash,pycharm,vscode,neovim,linux,ubuntu,kali,arch,github,git" />
+</div>
+
+<br/><br/>
+
+---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <!--
